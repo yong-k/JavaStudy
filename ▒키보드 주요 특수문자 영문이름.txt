@@ -1,0 +1,39 @@
+■■■ 키보드 주요 특수문자 영문이름 ■■■
+
+* 『`』 → Grave 
+『~』 → Tilde
+『!』 → Exclamation Point
+『@』 → At Sign, Commercial At
+『#』 → Crosshatch, Sharp, Pound Sign 
+『&』 → Dollar Sign
+『%』 → Percent Sign
+* 『^』 → Circumflex
+* 『&』 → Ampersand
+* 『*』 → Asterisk
+『(』 → Left Parenthesis
+『)』 → Right Parenthesis
+『()』→ Parentheses	※복수형 -ses
+『-』 → Hyphen, Dash, Minus Sign
+『_』 → Underscore, Underline
+『=』 → Equal Sign
+『+』 → Plus Sign
+* 『|』 → Vertical Bar	※글꼴에 영향
+* 『[』 → Left Bracket (브라켓)
+* 『]』 → Right Bracket
+* 『[]』→ Brackets
+* 『{』 → Left Brace (브레이스)
+* 『}』 → Right Brace
+* 『{}』→ Brace
+『;』 → Semicolon
+『:』 → Colon
+『"』 → Quotation Mark, (실무에서) Double Quotation
+『'』 → Apostrophe, (실무에서) Single Quotation
+『,』 → Comma
+『.』 → Period, Full Stop, Dot
+『<』 → Less Than Sign, *Left Angle Bracket
+『>』 → Greater Than Sign, *Right Angle Bracket
+* 『<>』→ Angle Brackets
+『/』 → Slash, Virgule
+『\』 → Back Slash, Won Sign	※글꼴에 영향
+『?』 → Question Mark
+『 』 → Space
